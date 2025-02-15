@@ -11,5 +11,5 @@
 - Classification: EasyOCR
 
 ### Datasets
-https://www.kaggle.com/datasets/kubeedgeianvs/pcb-aoi
-https://www.kaggle.com/datasets/ipythonx/mvtec-ad?resource=download
+- https://www.kaggle.com/datasets/kubeedgeianvs/pcb-aoi
+- https://www.kaggle.com/datasets/ipythonx/mvtec-ad?resource=download
