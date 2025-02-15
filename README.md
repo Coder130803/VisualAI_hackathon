@@ -10,5 +10,6 @@
 - Segmentation: YOLOv8
 - Classification: EasyOCR
 
-### Dataset
+### Datasets
 https://www.kaggle.com/datasets/kubeedgeianvs/pcb-aoi
+https://www.kaggle.com/datasets/ipythonx/mvtec-ad?resource=download
